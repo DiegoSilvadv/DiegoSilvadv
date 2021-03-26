@@ -1,6 +1,5 @@
 ### Hi there my name is Diego Silva, welcome  👋
 
-- 🔭 I’m currently working with technical support on DR Sistemas.
 - 🌱 I’m currently learning  a stack JavaScript ReactJS e NodeJS.
 
 ![DiegoSilvadv GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSilvadv&show_icons=true)
