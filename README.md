@@ -1,25 +1,2 @@
-### Hi there my name is Diego Silva, welcome  👋
 
-- 🌱 I’m currently learning  a stack JavaScript ReactJS e NodeJS.
-
-![DiegoSilvadv GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoSilvadv&show_icons=true)
-
-### Contato
-<a target="_blank" href="https://www.linkedin.com/in/diego-silva-96234318b/?originalSubdomain=br">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5515996289420">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:digssilva2000@outlook.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-&nbsp;
-### Tecnologias
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+Isso deve cobrir todas as suas habilidades e tecnologias atuais! 🚀[_{{{CITATION{{{_1{](https://github.com/DiegoSilvadv/DiegoSilvadv/tree/48805593c65f364279b6198200bb21b4a7148028/README.md)[_{{{CITATION{{{_2{](https://github.com/leomayerk/leomayerk/tree/b20543629809e2fa28220de4db8a908138bd6f46/README.md)[_{{{CITATION{{{_3{](https://github.com/Alexeiabianna/Alexeiabianna/tree/96e15e35e18d10eac6a1031dd18ad15542e35d86/README.md)[_{{{CITATION{{{_4{](https://github.com/shobhitsingh29/shobhitsingh29/tree/415b4cffa14f8e1ae917b3e1bd188629cfebb1de/README.md)[_{{{CITATION{{{_5{](https://github.com/sirshikher/sirshikher/tree/c1ffcc730ffab8940b1d6c1497433d37b040fc51/README.md)[_{{{CITATION{{{_6{](https://github.com/magaliais/magaliais/tree/4a74d7ff9de9ff7285bee90e1a2fd7dd0362bba1/README.md)[_{{{CITATION{{{_7{](https://github.com/hefeng6500/hefeng6500/tree/7006a15c2e5d782553970eb9e457502aa9520668/README.md)[_{{{CITATION{{{_8{](https://github.com/Bruuno96/Bruuno96/tree/0b5e55c28f3536aa2c935b25efd467954db0420e/README.md)[_{{{CITATION{{{_9{](https://github.com/simandebvu/simandebvu/tree/c672d09314fdb918be1cb882ae8d4b79f8fbe701/README.md)[_{{{CITATION{{{_10{](https://github.com/shaikafroz016/shaikafroz016/tree/b793e4d4b13af434344c2b9f8cab126cf24bf0e9/README.md)[_{{{CITATION{{{_11{](https://github.com/rdbhagat999/rdbhagat999/tree/fc0859b76f54062e8dd561cde8e226c8adda6822/README.md)[_{{{CITATION{{{_12{](https://github.com/akash-4/akash-4/tree/648e5bd49940264e53f513199697ef544ab3dbd3/README.md)[_{{{CITATION{{{_13{](https://github.com/jwendl/jwendl/tree/7560dfc63756bde785c5249237a17fcfaf273022/README.md)[_{{{CITATION{{{_14{](https://github.com/Vedant-S/Vedant-S/tree/95cb14dddb39acb755e2b5204de2c2c1136606ef/README.md)[_{{{CITATION{{{_15{](https://github.com/SOUMYADIPRONY/SOUMYADIPRONY/tree/8d5334bf008eee80096209890a2b17cbaa392943/README.md)[_{{{CITATION{{{_16{](https://github.com/Viictorreiss/Viictorreiss/tree/4607b780d0c4a597ca32b17b96d6134aaeea732d/README.md)[_{{{CITATION{{{_17{](https://github.com/Turtle24/Turtle24/tree/754498a68b88483d46de77847e3c98009c7a5e4e/README.md)
