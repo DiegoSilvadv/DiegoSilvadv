@@ -5,6 +5,16 @@
 # Hi there, my name is Diego Silva. Welcome!
 
 I’m currently working with a stack that includes JavaScript, ReactJS, and NodeJS. I also have skills in Oracle SQL, SQL Server, Firebase, REST APIs, HTML, CSS, and Python.
+![phone](https://github.com/user-attachments/assets/3f25377e-1102-41b3-9c78-3d752ca0d44f)
+
+![mail](https://github.com/user-attachments/assets/edd841c4-5e1f-4d86-872e-c34add7fdf5d)
+
+
+![wpp](https://github.com/user-attachments/assets/5503d131-29bf-4e41-b449-b7fa1b088822)
+![social](https://github.com/user-attachments/assets/b73ea682-c0bc-4f5c-a598-48b9b824e70e)
+
+![linkedin (1)](https://github.com/user-attachments/assets/a68c33ed-6e53-4153-9973-b0776fd60047)
+
 
 ## Contato
 <a target="_blank" href="https://www.linkedin.com/in/diego-silva-96234318b/?originalSubdomain=br">
