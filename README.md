@@ -16,8 +16,8 @@ I’m currently working with a stack that includes JavaScript, ReactJS, and Node
 <a target="_blank" href="https://www.linkedin.com/in/diego-silva-96234318b/?originalSubdomain=br">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/user-attachments/assets/a68c33ed-6e53-4153-9973-b0776fd60047" />
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/diego-silva-96234318b/?originalSubdomain=br">
-  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/user-attachments/assets/b73ea682-c0bc-4f5c-a598-48b9b824e70e" />
+<a target="_blank" href="https://www.instagram.com/diegodosites?igsh=MWZscTgzendxaTdkYw%3D%3D&utm_source=qr">
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/user-attachments/assets/b73ea682-c0bc-4f5c-a598-48b9b824e70e" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5515996289420">
   <img align="left" alt="WhatsApp" width="22px" src="https://github.com/user-attachments/assets/5503d131-29bf-4e41-b449-b7fa1b088822" />
