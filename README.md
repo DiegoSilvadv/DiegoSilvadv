@@ -26,6 +26,12 @@ I’m currently working with a stack that includes JavaScript, ReactJS, and Node
   <img align="left" alt="Email" width="22px" src="https://github.com/user-attachments/assets/edd841c4-5e1f-4d86-872e-c34add7fdf5d" />
 </a>
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosilvadv&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=diegosilvadv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
 &nbsp;
 
 ## Tecnologias
