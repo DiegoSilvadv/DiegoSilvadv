@@ -1,16 +1,12 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76ca50e4-54cd-4fc5-8ece-39fafb29c12d" width="300"  />
+  <img src="https://github.com/user-attachments/assets/76ca50e4-54cd-4fc5-8ece-39fafb29c12d" width="200"  />
 </p>
 
 # Hi there, my name is Diego Silva. Welcome!
 
 I’m currently working with a stack that includes JavaScript, ReactJS, and NodeJS. I also have skills in Oracle SQL, SQL Server, Firebase, REST APIs, HTML, CSS, and Python.
 
-
-
-
-
-## Contato
+## Contact
 <a target="_blank" href="https://www.linkedin.com/in/diego-silva-96234318b/?originalSubdomain=br">
   <img align="left" alt="LinkedIn" width="22px" src="https://github.com/user-attachments/assets/a68c33ed-6e53-4153-9973-b0776fd60047" />
 </a>
@@ -26,7 +22,7 @@ I’m currently working with a stack that includes JavaScript, ReactJS, and Node
   
 &nbsp;
 
-## Tecnologias
+## Technologies
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -39,7 +35,7 @@ I’m currently working with a stack that includes JavaScript, ReactJS, and Node
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## Estatisticas
+## Statistics
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosilvadv&layout=compact&langs_count=7&theme=dracula"/>
