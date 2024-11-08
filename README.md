@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b6a7ef9-46f2-4339-91fa-092395e33640" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/76ca50e4-54cd-4fc5-8ece-39fafb29c12d" width="100" height="100" />
 </p>
 
 # Hi there, my name is Diego Silva. Welcome!
 
 I’m currently working with a stack that includes JavaScript, ReactJS, and NodeJS. I also have skills in Oracle SQL, SQL Server, Firebase, REST APIs, HTML, CSS, and Python.
-
-
 
 
 
