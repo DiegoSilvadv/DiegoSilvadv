@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/76ca50e4-54cd-4fc5-8ece-39fafb29c12d" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/76ca50e4-54cd-4fc5-8ece-39fafb29c12d" width="300"  />
 </p>
 
 # Hi there, my name is Diego Silva. Welcome!
